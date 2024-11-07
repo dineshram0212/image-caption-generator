@@ -70,4 +70,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-This README.md now includes a brief explanation of the CNN-LSTM model and includes the architecture image for a more comprehensive understanding of the project.
+This image caption descriptor is aimed at providing real-time descriptive assistance to visually impaired users, making their navigation and interaction with their surroundings more accessible.
